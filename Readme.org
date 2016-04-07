@@ -1,0 +1,96 @@
+* A Type Theory Study Group
+
+Planning notes for the group.
+
+
+* Topics
+
+** History & Philosophy
+*** Background
+ - Gottlob Frege. On Sense and Reference (Über Sinn und Bedeutung)
+ - Dana Scott. Constructive Validity. In Symposium on Automatic
+   Demonstration, Volume 125 of the series Lecture Notes in
+   Mathematics, pp. 237-275. Springer.
+
+*** Per Martin-Löf's writings
+ - An intuitionistic theory of types: Predicative part. In H. E. Rose
+   and J. C. Shepherdson, editors, Logic Colloquium ‘73, pages
+   73–118. North Holland, 1975.
+ - Constructive mathematics and computer programming. In Logic,
+   Methodology and Philosophy of Science VI, 1979. Eds. Cohen, et
+   al. North-Holland, Amsterdam. pp. 153–175, 1982.
+ - Intuitionistic type theory (the Bibliopolis book)
+ - On the Meanings of the Logical Constants and the Justification of
+   Logical Laws (lecture notes from 1983, printed in Nordic Journal of
+   Philosophical Logic in 1996)
+ - Truth of a proposition, evidence of a judgement, validity of a
+   proof. Synthese 73(3), pp. 407--420. 1987.
+
+*** Further Developments
+ - Hofmann and Streicher. The Groupoid Interpretation of Type
+   Theory. (in "25 Years of Constructive Type Theory" or available
+   from Streicher's Web page)
+
+** Datatypes
+ - Mendler, Nax. Inductive Definition in Type Theory. PhD thesis,
+   Cornell, 1988.
+ - Peter Dybjer. Inductive Families, in Formal Aspects of Computing 6,
+   1994
+ - Peter Dybjer. A general formulation of simultaneous
+   inductive-recursive definitions in type theory, Journal of Symbolic
+   Logic, Volume 65, Number 2, June 2000, pp 525-549
+ - Peter Dybjer and Anton Setzer. A finite axiomatization of
+   inductive-recursive definitions. Pages 129 - 146 in Proceedings of
+   TLCA 1999, LNCS 1581.
+ - James Chapman, Pierre-Évariste Dagand, Conor McBride, Peter
+   Morris. The Gentle Art of Levitation. ICFP 2010.
+
+** Meaning Explanations
+ - Peter Dybjer. Program Testing and The Meaning Explanations of
+   Martin-Löf Type Theory. To appear in Epistemology versus Ontology,
+   Essays on the Philosophy and Foundations of Mathematics in Honour
+   of Per Martin-Löf, 2012.
+ - Anton Setzer: Coalgebras as Types determined by their Elimination
+   Rules (in same book)
+
+** Description Techniques
+ - N. G. de Bruijn. Telescopic Mappings in Typed Lambda
+   Calculus. Information and Computation 91, pp. 189--204 (1991).
+
+** Implementation Techniques
+ - Robert Harper and Robert Pollack. Type Checking with Universes.
+
+** Implementations
+*** TODO Coq
+*** TODO Agda
+*** Idris
+ - Edwin Brady. Idris, a General Purpose Dependently Typed Programming
+   Language: Design and Implementation. JFP, October 2013.
+*** Nuprl
+ - Robert Constable. Naive Computational Type Theory. Proof and
+   System-Reliability, H. Schwichtenberg and R. Steinbruggen (eds.),
+   pp. 213-259.
+*** MetaPRL
+ - Jason Hickey, Aleksey Nogin, Robert L. Constable, Brian E. Aydemir,
+   Eli Barzilay, Yegor Bryukhov, Richard Eaton, Adam Granicz, Alexei
+   Kopylov, Christoph Kreitz, Vladimir N. Krupski, Lori Lorigo,
+   Stephan Schmitt, Carl Witty, and Xin Yu. MetaPRL - A Modular
+   Logical Environment. TPHOLS 2003.
+*** Epigram
+ - The View From the Left (initial version)
+ - The View From the Left (published version)
+*** TODO LEGO
+
+** Alternatives
+*** Calculus of (Inductive) Constructions
+*** Observational Type Theory
+ - Thorsten Altenkirch and Conor McBride and Wouter
+   Swierstra. Observational Equality, Now!. PLPV 2007.
+*** Zombie Trellys
+ - Casinghino, Sjöberg, and Weirich. Combining Proofs and Programs in
+   a Dependently Typed Language. POPL '14.
+*** TODO Homotopy Type Theory
+*** TODO Cubical Type Theory
+
+** TODO Find the right papers for these
+ - Higher order unification - implementation
