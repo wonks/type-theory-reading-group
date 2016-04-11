@@ -2,6 +2,13 @@
 
 Planning notes for the group.
 
+* Meetings
+
+** Monday, 18 April, 2016, Swain West 217.
+ - Reading: "Intuitionistic Type Theory" (the Bibliopolis book) by Per
+   Martin-Löf. Available online [[https://intuitionistic.files.wordpress.com/2010/07/martin-lof-tt.pdf][from Johan Granström's page]].
+ - Presenting: David Christiansen
+
 
 * Topics
 
