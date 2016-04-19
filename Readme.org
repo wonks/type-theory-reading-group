@@ -16,12 +16,18 @@ administrative work.
  - Presenting: David Christiansen
 
 ** Monday, 25 April, 2016, 1-2PM, Swain West 217
+ - Reading: "Program Testing and The Meaning Explanations of
+   Martin-Löf Type Theory" by Peter Dybjer. Chapter 11 of Epistemology
+   versus Ontology, Essays on the Philosophy and Foundations of
+   Mathematics in Honour of Per Martin-Löf, 2012.  Available from [[http://www.cse.chalmers.se/~peterd/papers/MartinLofFestschrift.pdf][the
+   author's Web site]] and, on campus, through [[http://link.springer.com/chapter/10.1007/978-94-007-4435-6_11][SpringerLink]].
+ - Presenting: David Christiansen
+
+
+** Monday, 2 May, 2016, 1-2PM, TBD
  - Reading: "On Sense and Reference" by Gottlob Frege.
  - Presenting: Jason Hemann
 
-** Monday, 2 May, 2016, 1-2PM, TBD
- - Reading: TBD
- - Presenting: TBD
 
 * Topics
 
@@ -67,9 +73,9 @@ administrative work.
 
 ** Meaning Explanations
  - Peter Dybjer. Program Testing and The Meaning Explanations of
-   Martin-Löf Type Theory. To appear in Epistemology versus Ontology,
-   Essays on the Philosophy and Foundations of Mathematics in Honour
-   of Per Martin-Löf, 2012.
+   Martin-Löf Type Theory. Epistemology versus Ontology, Essays on the
+   Philosophy and Foundations of Mathematics in Honour of Per
+   Martin-Löf, 2012.
  - Anton Setzer: Coalgebras as Types determined by their Elimination
    Rules (in same book)
 
@@ -79,6 +85,8 @@ administrative work.
 
 ** Implementation Techniques
  - Robert Harper and Robert Pollack. Type Checking with Universes.
+ - Pattern Matching Without K. Jesper Cockx, Dominique Devriese, and
+   Frank Piessens. Proceedings of ICFP 2014.
 
 ** Implementations
 *** TODO Coq
