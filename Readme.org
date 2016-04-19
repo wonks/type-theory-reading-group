@@ -1,14 +1,27 @@
 * A Type Theory Study Group
 
-Planning notes for the group.
+The group will meet weekly, also during the summers, for a period of
+one hour. Everyone has the responsibility to read the material before
+arriving, but one person will have the responsibility of being in
+solid command of it and presenting it as a discussion starter.
+
+David is responsible for booking rooms and taking care of the
+administrative work.
 
 * Meetings
 
-** Monday, 18 April, 2016, Swain West 217.
+** Monday, 18 April, 2016, 1-2PM, Swain West 217.
  - Reading: "Intuitionistic Type Theory" (the Bibliopolis book) by Per
    Martin-Löf. Available online [[https://intuitionistic.files.wordpress.com/2010/07/martin-lof-tt.pdf][from Johan Granström's page]].
  - Presenting: David Christiansen
 
+** Monday, 25 April, 2016, 1-2PM, Swain West 217
+ - Reading: "On Sense and Reference" by Gottlob Frege.
+ - Presenting: Jason Hemann
+
+** Monday, 2 May, 2016, 1-2PM, TBD
+ - Reading: TBD
+ - Presenting: TBD
 
 * Topics
 
