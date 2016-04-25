@@ -24,10 +24,15 @@ administrative work.
  - Presenting: David Christiansen
 
 
-** Monday, 2 May, 2016, 1-2PM, TBD
+** Monday, 2 May, 2016, 1-2PM, Swain West 217
  - Reading: "On Sense and Reference" by Gottlob Frege.
  - Presenting: Jason Hemann
 
+** Monday, 9 May, 2016, 1-2PM, Lindley Hall 101
+ - Reading: "Constructive Mathematics and Computer Programming" by Per
+   Martin-Löf. A high-quality reprint of it is available from [[http://rsta.royalsocietypublishing.org/content/312/1522/501][The
+   Royal Society]] (works on-campus, at least).
+ - Presenting: Dan Friedman
 
 * Topics
 
