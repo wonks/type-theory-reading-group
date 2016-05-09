@@ -35,6 +35,17 @@ administrative work.
    Royal Society]] (works on-campus, at least).
  - Presenting: Dan Friedman
 
+** Monday, 16 May, 2016, 1-2PM, LH101
+ - Reading: "A Non-Type-Theoretic Definition of Martin-Löf's Types" by
+   Stuart Allen. Available from [[http://www.cs.cornell.edu/Info/Projects/NuPrl/documents/Allen/lics87.html][Cornell]]. We should read [[http://www.cs.cornell.edu/Info/Projects/NuPrl/documents/Allen/TR87-832-RESET.ps][the "Reset for
+   better legibility" version of the tech report]].
+ - Presenting: Tori Lewis
+
+** Monday, 23 May, 2016, 1-2PM, LH101
+ - Reading: "Pattern matching with dependent types" by Thierry
+   Coquand. From a 1992 workshop at Båstad. [[http://www.lfcs.inf.ed.ac.uk/research/types-bra/proc/proc92.ps.gz][In the proceedings]].
+ - Presenting: Andrew Kent
+
 * Topics
 
 ** History & Philosophy
@@ -91,6 +102,8 @@ administrative work.
 
 ** Implementation Techniques
  - Robert Harper and Robert Pollack. Type Checking with Universes.
+ - Pattern Matching with Dependent Types. Thierry Coquand, Proc. of
+   1992 Workshop on Types for Proofs and Programs in Båstad.
  - Pattern Matching Without K. Jesper Cockx, Dominique Devriese, and
    Frank Piessens. Proceedings of ICFP 2014.
 
