@@ -9,11 +9,36 @@ David is responsible for booking rooms and taking care of the
 administrative work.
 
 * Meetings
+** Monday , 6 June, 2106
+ - Reading: "Pattern matching with dependent types" by Thierry
+   Coquand. From a 1992 workshop at Båstad.
+   - [[http://www.lfcs.inf.ed.ac.uk/research/types-bra/proc/proc92.ps.gz][Original proceedings]]
+   - [[file:papers/proc92.pdf][PDF version of proceedings]]
+   - [[file:papers/proc92-coquand.pdf][PDF of just the paper]]
+ - Presenting: Andrew Kent
 
-** Monday, 18 April, 2016, 1-2PM, Swain West 217.
- - Reading: "Intuitionistic Type Theory" (the Bibliopolis book) by Per
-   Martin-Löf. Available online [[https://intuitionistic.files.wordpress.com/2010/07/martin-lof-tt.pdf][from Johan Granström's page]].
- - Presenting: David Christiansen
+** Monday, 30 May, 2016
+ Cancelled due to Memorial Day.
+
+** Monday, 23 May, 2016, 1-2PM, LH101
+ Cancelled.
+
+** Monday, 16 May, 2016, 1-2PM, LH101
+ - Reading: "A Non-Type-Theoretic Definition of Martin-Löf's Types" by
+   Stuart Allen. Available from [[http://www.cs.cornell.edu/Info/Projects/NuPrl/documents/Allen/lics87.html][Cornell]]. We should read [[http://www.cs.cornell.edu/Info/Projects/NuPrl/documents/Allen/TR87-832-RESET.ps][the "Reset for
+   better legibility" version of the tech report]].
+ - Presenting: Tori Lewis
+
+** Monday, 9 May, 2016, 1-2PM, Lindley Hall 101
+ - Reading: "Constructive Mathematics and Computer Programming" by Per
+   Martin-Löf. A high-quality reprint of it is available from [[http://rsta.royalsocietypublishing.org/content/312/1522/501][The
+   Royal Society]] (works on-campus, at least).
+ - Presenting: Dan Friedman
+
+** Monday, 2 May, 2016, 1-2PM, Swain West 217
+ - Reading: "On Sense and Reference" by Gottlob Frege.
+   Jason got a copy through ILL and put it [[file:papers/on-sense-and-nominatum.pdf][here]].
+ - Presenting: Jason Hemann
 
 ** Monday, 25 April, 2016, 1-2PM, Swain West 217
  - Reading: "Program Testing and The Meaning Explanations of
@@ -23,37 +48,10 @@ administrative work.
    author's Web site]] and, on campus, through [[http://link.springer.com/chapter/10.1007/978-94-007-4435-6_11][SpringerLink]].
  - Presenting: David Christiansen
 
-
-** Monday, 2 May, 2016, 1-2PM, Swain West 217
- - Reading: "On Sense and Reference" by Gottlob Frege.
-   Jason got a copy through ILL and put it [[file:papers/on-sense-and-nominatum.pdf][here]].
- - Presenting: Jason Hemann
-
-** Monday, 9 May, 2016, 1-2PM, Lindley Hall 101
- - Reading: "Constructive Mathematics and Computer Programming" by Per
-   Martin-Löf. A high-quality reprint of it is available from [[http://rsta.royalsocietypublishing.org/content/312/1522/501][The
-   Royal Society]] (works on-campus, at least).
- - Presenting: Dan Friedman
-
-** Monday, 16 May, 2016, 1-2PM, LH101
- - Reading: "A Non-Type-Theoretic Definition of Martin-Löf's Types" by
-   Stuart Allen. Available from [[http://www.cs.cornell.edu/Info/Projects/NuPrl/documents/Allen/lics87.html][Cornell]]. We should read [[http://www.cs.cornell.edu/Info/Projects/NuPrl/documents/Allen/TR87-832-RESET.ps][the "Reset for
-   better legibility" version of the tech report]].
- - Presenting: Tori Lewis
-
-** Monday, 23 May, 2016, 1-2PM, LH101
- Cancelled.
-
-** Monday, 30 May, 2016
- Cancelled due to Memorial Day.
-
-** Monday , 6 June, 2106
- - Reading: "Pattern matching with dependent types" by Thierry
-   Coquand. From a 1992 workshop at Båstad.
-   - [[http://www.lfcs.inf.ed.ac.uk/research/types-bra/proc/proc92.ps.gz][Original proceedings]]
-   - [[file:papers/proc92.pdf][PDF version of proceedings]]
-   - [[file:papers/proc92-coquand.pdf][PDF of just the paper]]
- - Presenting: Andrew Kent
+** Monday, 18 April, 2016, 1-2PM, Swain West 217.
+ - Reading: "Intuitionistic Type Theory" (the Bibliopolis book) by Per
+   Martin-Löf. Available online [[https://intuitionistic.files.wordpress.com/2010/07/martin-lof-tt.pdf][from Johan Granström's page]].
+ - Presenting: David Christiansen
 
 * Topics
 
