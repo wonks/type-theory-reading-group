@@ -42,8 +42,17 @@ administrative work.
  - Presenting: Tori Lewis
 
 ** Monday, 23 May, 2016, 1-2PM, LH101
+ Cancelled.
+
+** Monday, 30 May, 2016
+ Cancelled due to Memorial Day.
+
+** Monday , 6 June, 2106
  - Reading: "Pattern matching with dependent types" by Thierry
-   Coquand. From a 1992 workshop at Båstad. [[http://www.lfcs.inf.ed.ac.uk/research/types-bra/proc/proc92.ps.gz][In the proceedings]].
+   Coquand. From a 1992 workshop at Båstad.
+   - [[http://www.lfcs.inf.ed.ac.uk/research/types-bra/proc/proc92.ps.gz][Original proceedings]]
+   - [[file:papers/proc92.pdf][PDF version of proceedings]]
+   - [[file:papers/proc92-coquand.pdf][PDF of just the paper]]
  - Presenting: Andrew Kent
 
 * Topics
