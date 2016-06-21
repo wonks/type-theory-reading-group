@@ -119,6 +119,11 @@ administrative work.
  - James Chapman, Pierre-Évariste Dagand, Conor McBride, Peter
    Morris. The Gentle Art of Levitation. ICFP 2010.
 
+** Coinduction
+ - Guarded Dependent Type Theory with Coinductive Types by Aleš
+   Bizjak, Hans Bugge Grathwohl, Ranald Clouston, Rasmus E. Møgelberg,
+   and Lars Birkedal.
+
 ** Meaning Explanations
  - Peter Dybjer. Program Testing and The Meaning Explanations of
    Martin-Löf Type Theory. Epistemology versus Ontology, Essays on the
