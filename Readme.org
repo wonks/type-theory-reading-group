@@ -16,6 +16,11 @@ administrative work.
  - Presenting: David Christiansen
 
 ** Monday, 18 July, 2016
+ - Reading: "Cubical Type Theory: a constructive interpretation of the
+   univalence axiom" by Cyril Cohen, Thierry Coquand, Simon Huber, and
+   Anders Mörtberg
+ - [PDF](https://www.math.ias.edu/~amortberg/papers/cubicaltt.pdf)
+ - Presenting: Tim Zakian
 
 ** Monday, 11 July, 2016
  - Reading: "Ornamental Algebras, Algebraic Ornaments" by Conor
