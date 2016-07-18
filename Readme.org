@@ -12,14 +12,14 @@ administrative work.
 ** Monday, 25 July, 2016
  - Reading: "Computational Higher-Dimensional Type Theory" by Carlo
    Angiuli, Robert Harper, and Todd Wilson.
- - [PDF](http://www.cs.cmu.edu/~rwh/papers/chitt/draft.pdf)
+ - [[http://www.cs.cmu.edu/~rwh/papers/chitt/draft.pdf][PDF]]
  - Presenting: David Christiansen
 
 ** Monday, 18 July, 2016
  - Reading: "Cubical Type Theory: a constructive interpretation of the
    univalence axiom" by Cyril Cohen, Thierry Coquand, Simon Huber, and
    Anders Mörtberg
- - [PDF](https://www.math.ias.edu/~amortberg/papers/cubicaltt.pdf)
+ - [[https://www.math.ias.edu/~amortberg/papers/cubicaltt.pdf][PDF]]
  - Presenting: Tim Zakian
 
 ** Monday, 11 July, 2016
