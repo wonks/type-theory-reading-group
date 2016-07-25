@@ -12,7 +12,7 @@ administrative work.
 ** Monday, 1 August, 2016
  - Reading: "Homotopy theoretic models of identity types" by Steve
    Awodey and Michael A. Warren.
- - PDF (soon)
+ - [[http://arxiv.org/abs/0709.0248][PDF]]
  - Presenting: Hamidreza Bahramian
 
 ** Monday, 25 July, 2016
