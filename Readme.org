@@ -10,6 +10,9 @@ administrative work.
 
 * Meetings
 ** Monday, 22 August, 2016
+ - Reading: "The Power of Pi" by Nicolas Oury and Wouter Swierstra
+ - [[http://www.staff.science.uu.nl/~swier004/Publications/ThePowerOfPi.pdf][PDF]]
+ - Presenting: Chaitainya Koparkar
 
 ** Monday, 15 August, 2016
  - Reading: "Continuity of Gödel’s system T definable functionals via
