@@ -9,6 +9,24 @@ David is responsible for booking rooms and taking care of the
 administrative work.
 
 * Meetings
+** Monday, 3 October, 2016
+
+** Monday, 26 September, 2016
+
+** Monday, 19 September, 2016
+
+** Monday, 12 September, 2016
+ - Reading: "Constructing Type Systems over an Operational Semantics"
+   by Bob Harper.
+ - [[https://www.cs.uoregon.edu/research/summerschool/summer10/lectures/Harper-JSC92.pdf][PDF]]
+ - Presenting: Tori Lewis
+
+** Monday, 5 September, 2016
+ - U.S. Labor Day. No meeting.
+
+** Monday, 29 August, 2016
+ - Talk by Edwin Brady. No reading.
+
 ** Monday, 22 August, 2016
  - Reading: "The Power of Pi" by Nicolas Oury and Wouter Swierstra
  - [[http://www.staff.science.uu.nl/~swier004/Publications/ThePowerOfPi.pdf][PDF]]
