@@ -14,12 +14,13 @@ administrative work.
 ** Monday, 26 September, 2016
 
 ** Monday, 19 September, 2016
-
-** Monday, 12 September, 2016
  - Reading: "Constructing Type Systems over an Operational Semantics"
    by Bob Harper.
  - [[https://www.cs.uoregon.edu/research/summerschool/summer10/lectures/Harper-JSC92.pdf][PDF]]
  - Presenting: Tori Lewis
+
+** Monday, 12 September, 2016
+ - Cancelled due to illness
 
 ** Monday, 5 September, 2016
  - U.S. Labor Day. No meeting.
