@@ -10,6 +10,10 @@ administrative work.
 
 * Meetings
 ** Monday, 24 October, 2016
+ - "Observational Equality, Now!" by Thorsten Altenkirch, Conor
+   McBride, and Wouter Swierstra.
+ - [[http://www.cs.nott.ac.uk/~psztxa/publ/obseqnow.pdf]]
+ - Presenting: David Christiansen
 
 ** Monday, 17 October, 2016
  - No reading. Instead, we will have a discussion session on
