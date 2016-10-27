@@ -10,6 +10,12 @@ administrative work.
 
 * Meetings
 ** Monday, 24 October, 2016
+ - "Truth of a proposition, evidence of a judgement, validity of a
+   proof" by Per Martin-Löf. Synthese 73(3), pp. 407--420. 1987.
+ - [[https://michaelt.github.io/martin-lof/Truth-of-a-Proposition-Evidence-of-a-Judgment-1987.pdf]]
+ - Presenting: David Christiansen
+
+** Monday, 24 October, 2016
  - "Observational Equality, Now!" by Thorsten Altenkirch, Conor
    McBride, and Wouter Swierstra.
  - [[http://www.cs.nott.ac.uk/~psztxa/publ/obseqnow.pdf]]
