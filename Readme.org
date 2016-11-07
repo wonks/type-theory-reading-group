@@ -9,6 +9,43 @@ David is responsible for booking rooms and taking care of the
 administrative work.
 
 * Meetings
+** Week of the 16th January (TBD)
+ - Chao-Hong Chen
+
+** Monday, 9 January, 2016
+ - First day of classes. Email list to determine timing.
+ - Planning meeting.
+
+** Monday, 19 December, 2016
+ - No meeting due to winter break.
+
+** Monday, 12 December, 2016
+ - Control operators and types pt 2
+ - Reading: http://www.cs.indiana.edu/~sabry/papers/contFoundationLong.pdf
+ - Presenting: Amr Sabry
+ - Finals week.
+
+** Monday, 5 December, 2016
+ - Presenting: Vikraman Choudhury
+
+** Monday, 28 November, 2016
+ - Control operators and types pt 1
+ - http://www.cs.indiana.edu/~sabry/papers/foundationAbortive-TR.pdf
+   esp. sections 1-3
+ - Presenting: Amr Sabry
+
+** Monday, 21 November, 2016
+ - US Thanksgiving week, so no meeting.
+
+** Monday, 14 November, 2016
+ - "Löb’s Theorem: A functional pearl of dependently typed quining" by
+   Jason Gross, Jack Gallagher, and Benya Fallenstein.
+ - https://jasongross.github.io/lob-paper/nightly/lob.pdf
+ - Presenting: Weixi Ma
+
+** Monday, 7 November, 2016
+ - Planning meeting.
+
 ** Monday, 24 October, 2016
  - "Truth of a proposition, evidence of a judgement, validity of a
    proof" by Per Martin-Löf. Synthese 73(3), pp. 407--420. 1987.
