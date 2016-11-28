@@ -33,6 +33,7 @@ administrative work.
  - http://www.cs.indiana.edu/~sabry/papers/foundationAbortive-TR.pdf
    esp. sections 1-3
  - Presenting: Amr Sabry
+ - [[file:extra/C.agda][Agda code from talk]]
 
 ** Monday, 21 November, 2016
  - US Thanksgiving week, so no meeting.
