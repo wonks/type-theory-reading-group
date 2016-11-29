@@ -26,6 +26,8 @@ administrative work.
  - Finals week.
 
 ** Monday, 5 December, 2016
+ - Contextual Isomorphisms
+ - https://www.cs.bham.ac.uk/~pbl/papers/contextiso.pdf
  - Presenting: Vikraman Choudhury
 
 ** Monday, 28 November, 2016
