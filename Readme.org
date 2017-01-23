@@ -47,7 +47,8 @@ administrative work.
 
 ** Monday, 6 February, 2017
  - David Christiansen
- - Sterling and Harper's LICS submission about semantics of LCF-style proof
+ - [[file:papers/afpr.pdf][Algebraic Foundations of Proof Refinement]] by Jonathan Sterling and
+   Robert Harper
 
 ** Monday, 30 January, 2017
  - Kyle Carter
