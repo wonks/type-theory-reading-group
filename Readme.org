@@ -19,6 +19,8 @@ administrative work.
 ** Monday, 10 April, 2017
 
 ** Monday, 3 April, 2017
+ - Tori Lewis
+ - [[http://www.nuprl.org/html/Nuprl2Coq/continuity.pdf][A Nominal Exploration of Intuitionism]] by Vincent Rahli and Mark Bickford
 
 ** Monday, 27 March, 2017
 
