@@ -19,6 +19,8 @@ administrative work.
 ** Monday, 10 April, 2017
 
 ** Monday, 3 April, 2017
+ - Tori Lewis
+ - [[http://www.nuprl.org/html/Nuprl2Coq/continuity.pdf][A Nominal Exploration of Intuitionism]] by Vincent Rahli and Mark Bickford
 
 ** Monday, 27 March, 2017
 
@@ -47,7 +49,8 @@ administrative work.
 
 ** Monday, 6 February, 2017
  - David Christiansen
- - Sterling and Harper's LICS submission about semantics of LCF-style proof
+ - [[file:papers/afpr.pdf][Algebraic Foundations of Proof Refinement]] by Jonathan Sterling and
+   Robert Harper
 
 ** Monday, 30 January, 2017
  - Kyle Carter
