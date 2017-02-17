@@ -23,6 +23,8 @@ administrative work.
  - [[http://www.nuprl.org/html/Nuprl2Coq/continuity.pdf][A Nominal Exploration of Intuitionism]] by Vincent Rahli and Mark Bickford
 
 ** Monday, 27 March, 2017
+ - Chaitanya Koparkar
+ - [[http://strictlypositive.org/Easy.pdf][Simply Easy]] by Andres Löh, Conor McBride, Wouter Swierstra
 
 ** Monday, 20 March, 2017
  - Vikraman Choudhury
