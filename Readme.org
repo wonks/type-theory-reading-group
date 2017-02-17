@@ -36,7 +36,7 @@ administrative work.
  - Robert Rose
  - [[http://www.mathematik.tu-darmstadt.de/~streicher/venedig.ps.gz][The Groupoid Interpretation of Type Theory]] by Martin Hofmann and Thomas Streicher
 
-** Monday, 20 February, 2017
+** Monday, 20 February, 2017 - CANCELLED
  - Chaitanya Koparkar
  - [[http://strictlypositive.org/Easy.pdf][Simply Easy]] by Andres Löh, Conor McBride, Wouter Swierstra
 
