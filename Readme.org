@@ -23,6 +23,7 @@ administrative work.
  - [[http://www.nuprl.org/html/Nuprl2Coq/continuity.pdf][A Nominal Exploration of Intuitionism]] by Vincent Rahli and Mark Bickford
 
 ** Monday, 27 March, 2017
+ - Chao-Hong Chen
 
 ** Monday, 20 March, 2017
  - Vikraman Choudhury
@@ -31,8 +32,9 @@ administrative work.
  - No meeting, Spring Break
 
 ** Monday, 6 March, 2017
- - First 10 minutes: planning rest of semester
- - Chao-Hong Chen
+ - Robert Rose
+ - [[http://www.mathematik.tu-darmstadt.de/~streicher/venedig.ps.gz][The Groupoid Interpretation of Type Theory]] by Martin Hofmann and Thomas Streicher
+   (continuing from last week)
 
 ** Monday, 27 February, 2017
  - Robert Rose
