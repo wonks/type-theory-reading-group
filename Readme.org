@@ -17,13 +17,15 @@ administrative work.
 ** Monday, 17 April, 2017
 
 ** Monday, 10 April, 2017
+-Chao-Hong Chen
 
 ** Monday, 3 April, 2017
  - Tori Lewis
  - [[http://www.nuprl.org/html/Nuprl2Coq/continuity.pdf][A Nominal Exploration of Intuitionism]] by Vincent Rahli and Mark Bickford
 
 ** Monday, 27 March, 2017
- - Chao-Hong Chen
+ - Chaitanya Koparkar
+ - [[http://strictlypositive.org/Easy.pdf][Simply Easy]] by Andres Löh, Conor McBride, Wouter Swierstra
 
 ** Monday, 20 March, 2017
  - Vikraman Choudhury
@@ -40,9 +42,7 @@ administrative work.
  - Robert Rose
  - [[http://www.mathematik.tu-darmstadt.de/~streicher/venedig.ps.gz][The Groupoid Interpretation of Type Theory]] by Martin Hofmann and Thomas Streicher
 
-** Monday, 20 February, 2017
- - Chaitanya Koparkar
- - [[http://strictlypositive.org/Easy.pdf][Simply Easy]] by Andres Löh, Conor McBride, Wouter Swierstra
+** Monday, 20 February, 2017 - CANCELLED
 
 ** Monday, 13 February, 2017
  - Weixi Ma
