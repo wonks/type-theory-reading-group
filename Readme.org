@@ -20,15 +20,16 @@ administrative work.
 -Chao-Hong Chen
 
 ** Monday, 3 April, 2017
- - Tori Lewis
- - [[http://www.nuprl.org/html/Nuprl2Coq/continuity.pdf][A Nominal Exploration of Intuitionism]] by Vincent Rahli and Mark Bickford
+ - Vikraman Choudhury
+ - [[https://www.cs.cmu.edu/~drl/pubs/lh112tt/lh122tt-final.pdf][Canonicity for 2-Dimensional Type Theory]] by Dan Licata and Bob Harper
 
 ** Monday, 27 March, 2017
  - Chaitanya Koparkar
  - [[http://strictlypositive.org/Easy.pdf][Simply Easy]] by Andres Löh, Conor McBride, Wouter Swierstra
 
 ** Monday, 20 March, 2017
- - Vikraman Choudhury
+ - Tori Lewis
+ - [[http://www.nuprl.org/html/Nuprl2Coq/continuity.pdf][A Nominal Exploration of Intuitionism]] by Vincent Rahli and Mark Bickford
 
 ** Monday, 13 March, 2017
  - No meeting, Spring Break
