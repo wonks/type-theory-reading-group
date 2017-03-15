@@ -15,6 +15,8 @@ administrative work.
 ** Monday, 24 April, 2017
 
 ** Monday, 17 April, 2017
+ - David Christiansen
+ - [[http://pauillac.inria.fr/~herbelin/articles/tlca-Her05-callcc-sigma-types.pdf][On the Degeneracy of Σ-Types in Presence of Computational Classical Logic]] by Hugo Herbelin
 
 ** Monday, 10 April, 2017
 -Chao-Hong Chen
