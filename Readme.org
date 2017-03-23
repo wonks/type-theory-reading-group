@@ -19,15 +19,16 @@ administrative work.
  - [[http://pauillac.inria.fr/~herbelin/articles/tlca-Her05-callcc-sigma-types.pdf][On the Degeneracy of Σ-Types in Presence of Computational Classical Logic]] by Hugo Herbelin
 
 ** Monday, 10 April, 2017
--Chao-Hong Chen
+ - Chao-Hong Chen
 
 ** Monday, 3 April, 2017
  - Vikraman Choudhury
  - [[https://www.cs.cmu.edu/~drl/pubs/lh112tt/lh122tt-final.pdf][Canonicity for 2-Dimensional Type Theory]] by Dan Licata and Bob Harper
 
 ** Monday, 27 March, 2017
- - Chaitanya Koparkar
- - [[http://strictlypositive.org/Easy.pdf][Simply Easy]] by Andres Löh, Conor McBride, Wouter Swierstra
+ - David Christiansen
+ - [[papers/epigram-reloaded.pdf][Epigram Reloaded: A Standalone Typechecker for ETT]] by James
+   Chapman, Thorsten Altenkirch, and Conor McBride
 
 ** Monday, 20 March, 2017
  - Tori Lewis
