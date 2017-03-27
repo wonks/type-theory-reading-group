@@ -20,6 +20,7 @@ administrative work.
 
 ** Monday, 10 April, 2017
  - Chao-Hong Chen
+ - [[http://www.cs.bham.ac.uk/~mhe/papers/escardo-xu-inconsistency-continuity.pdf][The inconsistency of a Brouwerian continuity principle with the Curry-Howard interpretation]] by Martín Escardó and Chuangjie Xu
 
 ** Monday, 3 April, 2017
  - Vikraman Choudhury
