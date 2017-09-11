@@ -25,13 +25,15 @@ administrative work.
  - Chao-Hong Chen
 
 ** Monday, 2 October, 2017
- - Vikraman Choudhury
+ - Tori Lewis
 
 ** Monday, 25 September, 2017
  - David Christiansen
 
 ** Monday, 18 September, 2017
- - Tori Lewis
+ - Vikraman Choudhury
+ - Appendix B from [[https://arxiv.org/pdf/1606.05916.pdf][Guillaume Brunerie's thesis]]: The cardinal of π₄(𝕊³)
+
 
 ** Monday, 11 September, 2017
  - Ryan Scott
