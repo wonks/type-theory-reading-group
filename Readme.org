@@ -37,6 +37,7 @@ administrative work.
 
 ** Monday, 11 September, 2017
  - Ryan Scott
+ - Presenting Chapter 4 from [[https://www.cis.upenn.edu/~sweirich/papers/eisenberg-thesis.pdf][Richard Eisenberg's thesis]] (pp 51--66)
 
 ** Monday, 4 September, 2017
  - US Labor Day and ICFP, no meeting
