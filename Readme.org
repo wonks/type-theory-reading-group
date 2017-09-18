@@ -32,9 +32,10 @@ administrative work.
  - [[http://www.cs.swan.ac.uk/~csetzer/articles/iopreprint.pdf][Interactive Programs in Dependent Type Theory]] by Peter Hancock and
    Anton Setzer
 
-** Monday, 18 September, 2017
+** Monday, 18 September, 2017 - Meeting cancelled
  - Vikraman Choudhury
  - Appendix B from [[https://arxiv.org/pdf/1606.05916.pdf][Guillaume Brunerie's thesis]]: The cardinal of π₄(𝕊³)
+ 
 
 
 ** Monday, 11 September, 2017
