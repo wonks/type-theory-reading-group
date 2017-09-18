@@ -29,6 +29,8 @@ administrative work.
 
 ** Monday, 25 September, 2017
  - David Christiansen
+ - [[http://www.cs.swan.ac.uk/~csetzer/articles/iopreprint.pdf][Interactive Programs in Dependent Type Theory]] by Peter Hancock and
+   Anton Setzer
 
 ** Monday, 18 September, 2017
  - Vikraman Choudhury
