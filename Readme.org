@@ -337,6 +337,12 @@ administrative work.
  - Guarded Dependent Type Theory with Coinductive Types by Aleš
    Bizjak, Hans Bugge Grathwohl, Ranald Clouston, Rasmus E. Møgelberg,
    and Lars Birkedal.
+ - Guarded Cubical Type Theory: Path Equality for Guarded Recursion
+   by Lars Birkedal, Ranald Clouston, Hans Bugge Grathwohl, Bas Spitters, and Andrea Vezzosi
+   [[https://arxiv.org/pdf/1606.05223.pdf]]
+ - Non-wellfounded trees in Homotopy Type Theory by
+   Benedikt Ahrens, Paolo Capriotti, Régis Spadotti
+   [[https://arxiv.org/pdf/1504.02949.pdf]]
 
 ** Meaning Explanations
  - Peter Dybjer. Program Testing and The Meaning Explanations of
