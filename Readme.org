@@ -18,8 +18,12 @@ administrative work.
 
 ** Monday, 23 October, 2017
  - Tori Lewis
+ - [[http://www.cse.chalmers.se/~peterd/papers/Finite_IR.pdf][A Finite Axiomatization of Inductive-Recursive Definitions]] by
+   Dybjer and Setzer
+
 ** Monday, 16 October, 2017
  - David Christiansen
+ - [[https://jmchapman.github.io/papers/levitation.pdf][The Gentle Art of Levitation]] by Chapman, Dagand, McBride, and Morris
 
 ** Monday, 9 October, 2017
  - Chao-Hong Chen
