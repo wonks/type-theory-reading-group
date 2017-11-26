@@ -9,6 +9,11 @@ David is responsible for booking rooms and taking care of the
 administrative work.
 
 * Meetings
+
+** Monday, 27 November, 2017
+ - Hamidreza Bahramian
+ - [[http://hdl.handle.net/2022/21811][Copredication in homotopy type theory]] by Hamidreza Bahramian, Narges Nematollahi, and Amr Sabry
+
 ** Monday, 13 November, 2017
 ** Monday, 6 November, 2017
  - Ryan Scott presenting AND organizing
