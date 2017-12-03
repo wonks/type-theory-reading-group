@@ -10,6 +10,10 @@ administrative work.
 
 * Meetings
 
+** Monday, 4 December, 2017
+ - Tori Lewis
+ - [[https://link.springer.com/chapter/10.1007/3-540-45413-6_11][Ramified Recurrence with Dependent Types]] by Normal Danner
+ - [[https://goo.gl/vrbWug][Un-paywalled link]]
 ** Monday, 27 November, 2017
  - Hamidreza Bahramian
  - [[http://hdl.handle.net/2022/21811][Copredication in homotopy type theory]] by Hamidreza Bahramian, Narges Nematollahi, and Amr Sabry
@@ -45,7 +49,7 @@ administrative work.
 ** Monday, 18 September, 2017 - Meeting cancelled
  - Vikraman Choudhury
  - Appendix B from [[https://arxiv.org/pdf/1606.05916.pdf][Guillaume Brunerie's thesis]]: The cardinal of π₄(𝕊³)
- 
+
 
 
 ** Monday, 11 September, 2017
