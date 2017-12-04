@@ -1,4 +1,4 @@
-* A Type Theory Study Group
+* A Type Theory Reading Group
 
 The group will meet weekly, also during the summers, for a period of
 one hour. Everyone has the responsibility to read the material before
@@ -10,304 +10,310 @@ administrative work.
 
 * Meetings
 
-** Monday, 4 December, 2017
+** Fall 2017
+*** Monday, 4 December, 2017
  - Tori Lewis
  - [[https://link.springer.com/chapter/10.1007/3-540-45413-6_11][Ramified Recurrence with Dependent Types]] by Normal Danner
  - [[https://goo.gl/vrbWug][Un-paywalled link]]
-** Monday, 27 November, 2017
- - Hamidreza Bahramian
- - [[http://hdl.handle.net/2022/21811][Copredication in homotopy type theory]] by Hamidreza Bahramian, Narges Nematollahi, and Amr Sabry
 
-** Monday, 13 November, 2017
-** Monday, 6 November, 2017
- - Ryan Scott presenting AND organizing
- - [[https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/coercible.pdf][Safe Zero-cost Coercions for Haskell]] by Breitner, Eisenberg, Peyton Jones, and Weirich
-
-** Monday, 30 October, 2017
-
-
-** Monday, 23 October, 2017
- - Tori Lewis
- - [[http://www.cse.chalmers.se/~peterd/papers/Finite_IR.pdf][A Finite Axiomatization of Inductive-Recursive Definitions]] by
-   Dybjer and Setzer
-
-** Monday, 16 October, 2017
- - David Christiansen
- - [[https://jmchapman.github.io/papers/levitation.pdf][The Gentle Art of Levitation]] by Chapman, Dagand, McBride, and Morris
-
-** Monday, 9 October, 2017
- - Chao-Hong Chen
-
-** Monday, 2 October, 2017
- - Tori Lewis
-
-** Monday, 25 September, 2017
- - David Christiansen
- - [[http://www.cs.swan.ac.uk/~csetzer/articles/iopreprint.pdf][Interactive Programs in Dependent Type Theory]] by Peter Hancock and
-   Anton Setzer
-
-** Monday, 18 September, 2017 - Meeting cancelled
- - Vikraman Choudhury
- - Appendix B from [[https://arxiv.org/pdf/1606.05916.pdf][Guillaume Brunerie's thesis]]: The cardinal of π₄(𝕊³)
-
-
-
-** Monday, 11 September, 2017
- - Ryan Scott
- - Presenting Chapter 4 from [[https://www.cis.upenn.edu/~sweirich/papers/eisenberg-thesis.pdf][Richard Eisenberg's thesis]] (pp 51--66)
-
-** Monday, 4 September, 2017
- - US Labor Day and ICFP, no meeting
-
-** Monday, 28 August, 2017
- - Planning meeting in THE ABYSS
-
-** Monday, 1 May, 2017
-
-** Monday, 24 April, 2017
- - David Christiansen
- - [[http://pauillac.inria.fr/~herbelin/articles/tlca-Her05-callcc-sigma-types.pdf][On the Degeneracy of Σ-Types in Presence of Computational Classical
-   Logic]] by Hugo Herbelin
-
-** Monday, 17 April, 2017
- - No meeting
-
-** Monday, 10 April, 2017
- - Chao-Hong Chen
- - [[http://www.cs.bham.ac.uk/~mhe/papers/escardo-xu-inconsistency-continuity.pdf][The inconsistency of a Brouwerian continuity principle with the Curry-Howard interpretation]] by Martín Escardó and Chuangjie Xu
-
-** Monday, 3 April, 2017
- - Vikraman Choudhury
- - [[https://www.cs.cmu.edu/~drl/pubs/lh112tt/lh122tt-final.pdf][Canonicity for 2-Dimensional Type Theory]] by Dan Licata and Bob Harper
-
-** Monday, 27 March, 2017
- - David Christiansen
- - [[papers/epigram-reloaded.pdf][Epigram Reloaded: A Standalone Typechecker for ETT]] by James
-   Chapman, Thorsten Altenkirch, and Conor McBride
-
-** Monday, 20 March, 2017
- - Tori Lewis
- - [[http://www.nuprl.org/html/Nuprl2Coq/continuity.pdf][A Nominal Exploration of Intuitionism]] by Vincent Rahli and Mark Bickford
-
-** Monday, 13 March, 2017
- - No meeting, Spring Break
-
-** Monday, 6 March, 2017
- - Robert Rose
- - [[http://www.mathematik.tu-darmstadt.de/~streicher/venedig.ps.gz][The Groupoid Interpretation of Type Theory]] by Martin Hofmann and Thomas Streicher
-   (continuing from last week)
-
-** Monday, 27 February, 2017
- - Robert Rose
- - [[http://www.mathematik.tu-darmstadt.de/~streicher/venedig.ps.gz][The Groupoid Interpretation of Type Theory]] by Martin Hofmann and Thomas Streicher
-
-** Monday, 20 February, 2017 - CANCELLED
-
-** Monday, 13 February, 2017
- - Weixi Ma
- - [[http://www.cse.chalmers.se/~peterd/papers/Testing_Proving.pdf][Combining testing and proving in dependent type theory]] by Peter
-   Dybjer, Qiao Haiyan, and Makoto Takeyama
-
-** Monday, 6 February, 2017
- - David Christiansen
- - [[file:papers/afpr.pdf][Algebraic Foundations of Proof Refinement]] by Jonathan Sterling and
-   Robert Harper
-
-** Monday, 30 January, 2017
- - Kyle Carter
- - [[https://arxiv.org/abs/1701.02571][Stack Semantics of Type Theory]] by Thierry Coquand, Bassel Mannaa,
-   and Fabian Ruch
-
-** Monday, 23 January, 2017
- - Planning meeting
- - Decision: we stick to Mondays at 11
-
-** Monday, 19 December, 2016
- - No meeting due to winter break.
-
-** Monday, 12 December, 2016
- - Control operators and types pt 2
- - Reading: http://www.cs.indiana.edu/~sabry/papers/contFoundationLong.pdf
- - Presenting: Amr Sabry
- - Finals week.
-
-** Monday, 5 December, 2016
- - Contextual Isomorphisms
- - https://www.cs.bham.ac.uk/~pbl/papers/contextiso.pdf
- - Presenting: Vikraman Choudhury
-
-** Monday, 28 November, 2016
- - Control operators and types pt 1
- - http://www.cs.indiana.edu/~sabry/papers/foundationAbortive-TR.pdf
-   esp. sections 1-3
- - Presenting: Amr Sabry
- - [[file:extra/C.agda][Agda code from talk]]
-
-** Monday, 21 November, 2016
- - US Thanksgiving week, so no meeting.
-
-** Monday, 14 November, 2016
- - "Löb’s Theorem: A functional pearl of dependently typed quining" by
-   Jason Gross, Jack Gallagher, and Benya Fallenstein.
- - https://jasongross.github.io/lob-paper/nightly/lob.pdf
- - Presenting: Weixi Ma
-
-** Monday, 7 November, 2016
- - Planning meeting.
-
-** Monday, 24 October, 2016
- - "Truth of a proposition, evidence of a judgement, validity of a
-   proof" by Per Martin-Löf. Synthese 73(3), pp. 407--420. 1987.
- - [[https://michaelt.github.io/martin-lof/Truth-of-a-Proposition-Evidence-of-a-Judgment-1987.pdf]]
- - Presenting: David Christiansen
-
-** Monday, 24 October, 2016
- - "Observational Equality, Now!" by Thorsten Altenkirch, Conor
-   McBride, and Wouter Swierstra.
- - [[http://www.cs.nott.ac.uk/~psztxa/publ/obseqnow.pdf]]
- - Presenting: David Christiansen
-
-** Monday, 17 October, 2016
- - No reading. Instead, we will have a discussion session on
-   formalizing category theory, lead by Tang Jiawei.
-
-** Monday, 10 October, 2016
- - Reading: "Denotation of Contextual Modal Type Theory (CMTT): syntax
-   and metaprogramming" by Murdoch J. Gabbay and Aleksandar Nanevski
- - Available [[http://gabbay.org.uk/papers/dencmt.pdf][from author]]
- - Presenting: Kyle Carter
-
-** Monday, 3 October, 2016
- - Reading: "Unifiers as equivalences: proof-relevant unification of
-   dependently typed data" by Cockx, Devriese, and Piessens
- - Available on [[http://dl.acm.org/citation.cfm?id%3D2951917&CFID%3D844154474&CFTOKEN%3D48082776][ACM DL]]
- - Presenting: David Christiansen
-
-** Monday, 26 September, 2016
-
-** Monday, 19 September, 2016
- - Reading: "Constructing Type Systems over an Operational Semantics"
-   by Bob Harper.
- - [[https://www.cs.uoregon.edu/research/summerschool/summer10/lectures/Harper-JSC92.pdf][PDF]]
- - Presenting: Tori Lewis
-
-** Monday, 12 September, 2016
- - Cancelled due to illness
-
-** Monday, 5 September, 2016
- - U.S. Labor Day. No meeting.
-
-** Monday, 29 August, 2016
- - Talk by Edwin Brady. No reading.
-
-** Monday, 22 August, 2016
- - Reading: "The Power of Pi" by Nicolas Oury and Wouter Swierstra
- - [[http://www.staff.science.uu.nl/~swier004/Publications/ThePowerOfPi.pdf][PDF]]
- - Presenting: Chaitainya Koparkar
-
-** Monday, 15 August, 2016
- - Reading: "Continuity of Gödel’s system T definable functionals via
-   effectful forcing" by Martín Escardó
- - [[http://www.cs.bham.ac.uk/~mhe/dialogue/dialogue.pdf][PDF]]
- - Presenting: Jon Sterling
-
-** Monday, 8 August, 2016
- - Reading: "Homotopy theoretic models of identity types" by Steve
-   Awodey and Michael A. Warren.
- - [[http://arxiv.org/abs/0709.0248][PDF]]
- - Presenting: Hamidreza Bahramian
-
-** Monday, 1 August, 2016
- - Cancelled
-
-** Monday, 25 July, 2016
- - Reading: "Computational Higher-Dimensional Type Theory" by Carlo
-   Angiuli, Robert Harper, and Todd Wilson.
- - [[http://www.cs.cmu.edu/~rwh/papers/chitt/draft.pdf][PDF]]
- - Presenting: David Christiansen
-
-** Monday, 18 July, 2016
- - Reading: "Cubical Type Theory: a constructive interpretation of the
-   univalence axiom" by Cyril Cohen, Thierry Coquand, Simon Huber, and
-   Anders Mörtberg
- - [[https://www.math.ias.edu/~amortberg/papers/cubicaltt.pdf][PDF]]
- - Presenting: Tim Zakian
-
-** Monday, 11 July, 2016
- - Reading: "Ornamental Algebras, Algebraic Ornaments" by Conor
-   McBride.
- - [[https://personal.cis.strath.ac.uk/conor.mcbride/pub/OAAO/Ornament.pdf][PDF]]
- - Presenting: Jason Hemann
- - *Change of venue:* LH 325
-
-** Monday, 4 July, 2016
- Cancelled due to U.S. Independence Day.
-
-** Monday, 27 June, 2016
- - Reading: "Outrageous but Meaningful Coincidences" by Conor McBride.
- - [[https://personal.cis.strath.ac.uk/conor.mcbride/pub/DepRep/DepRep.pdf][PDF]]
- - Presenting: Kyle Carter
-
-** Monday, 20 June, 2016
- - Reading: "Idris, a General Purpose Dependently Typed Programming
-   Language: Design and Implementation" by Edwin Brady. In Journal of
-   Functional Programming, October 2013.
- - [[http://eb.host.cs.st-andrews.ac.uk/drafts/impldtp.pdf][PDF]]
- - Presenting: Rajan Walia
-
-** Monday, 13 June, 2016
- - Reading: "Indexed Containers" by Thorsten Altenkirch, Neil Ghani,
-   Peter Hancock, Conor McBride, and Peter Morris. In LICS 2009.
-   - [[http://strictlypositive.org/indexed-containers.pdf][PDF]]
- - Presenting: Larry Moss
-
-** Monday, 6 June, 2016
- - Reading: "Pattern matching with dependent types" by Thierry
-   Coquand. From a 1992 workshop at Båstad.
-   - [[http://www.lfcs.inf.ed.ac.uk/research/types-bra/proc/proc92.ps.gz][Original proceedings]]
-   - [[file:papers/proc92.pdf][PDF version of proceedings]]
-   - [[file:papers/proc92-coquand.pdf][PDF of just the paper]]
- - Presenting: Andrew Kent
-
-** Monday, 30 May, 2016
- Cancelled due to Memorial Day.
-
-** Monday, 23 May, 2016, 1-2PM, LH101
- Cancelled.
-
-** Monday, 16 May, 2016, 1-2PM, LH101
- - Reading: "A Non-Type-Theoretic Definition of Martin-Löf's Types" by
-   Stuart Allen. Available from [[http://www.cs.cornell.edu/Info/Projects/NuPrl/documents/Allen/lics87.html][Cornell]]. We should read [[http://www.cs.cornell.edu/Info/Projects/NuPrl/documents/Allen/TR87-832-RESET.ps][the "Reset for
-   better legibility" version of the tech report]].
- - Presenting: Tori Lewis
-
-** Monday, 9 May, 2016, 1-2PM, Lindley Hall 101
- - Reading: "Constructive Mathematics and Computer Programming" by Per
-   Martin-Löf. A high-quality reprint of it is available from [[http://rsta.royalsocietypublishing.org/content/312/1522/501][The
-   Royal Society]] (works on-campus, at least).
- - Presenting: Dan Friedman
-
-** Monday, 2 May, 2016, 1-2PM, Swain West 217
- - Reading: "On Sense and Reference" by Gottlob Frege.
-   Jason got a copy through ILL and put it [[file:papers/on-sense-and-nominatum.pdf][here]].
- - Presenting: Jason Hemann
-
-** Monday, 25 April, 2016, 1-2PM, Swain West 217
- - Reading: "Program Testing and The Meaning Explanations of
-   Martin-Löf Type Theory" by Peter Dybjer. Chapter 11 of Epistemology
-   versus Ontology, Essays on the Philosophy and Foundations of
-   Mathematics in Honour of Per Martin-Löf, 2012.  Available from [[http://www.cse.chalmers.se/~peterd/papers/MartinLofFestschrift.pdf][the
-   author's Web site]] and, on campus, through [[http://link.springer.com/chapter/10.1007/978-94-007-4435-6_11][SpringerLink]].
- - Presenting: David Christiansen
-
-** Monday, 18 April, 2016, 1-2PM, Swain West 217.
- - Reading: "Intuitionistic Type Theory" (the Bibliopolis book) by Per
-   Martin-Löf. Available online [[https://intuitionistic.files.wordpress.com/2010/07/martin-lof-tt.pdf][from Johan Granström's page]].
- - Presenting: David Christiansen
+*** Monday, 27 November, 2017
+  - Hamidreza Bahramian
+  - [[http://hdl.handle.net/2022/21811][Copredication in homotopy type theory]] by Hamidreza Bahramian, Narges Nematollahi, and Amr Sabry
+
+*** Monday, 13 November, 2017
+  - No meeting
+*** Monday, 6 November, 2017
+  - Ryan Scott presenting AND organizing
+  - [[https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/coercible.pdf][Safe Zero-cost Coercions for Haskell]] by Breitner, Eisenberg, Peyton Jones, and Weirich
+
+*** Monday, 30 October, 2017
+  - No meeting
+*** Monday, 23 October, 2017
+  - Tori Lewis
+  - [[http://www.cse.chalmers.se/~peterd/papers/Finite_IR.pdf][A Finite Axiomatization of Inductive-Recursive Definitions]] by
+    Dybjer and Setzer
+
+*** Monday, 16 October, 2017
+  - David Christiansen
+  - [[https://jmchapman.github.io/papers/levitation.pdf][The Gentle Art of Levitation]] by Chapman, Dagand, McBride, and Morris
+
+*** Monday, 9 October, 2017
+  - Chao-Hong Chen
+
+*** Monday, 2 October, 2017
+  - Tori Lewis
+
+*** Monday, 25 September, 2017
+  - David Christiansen
+  - [[http://www.cs.swan.ac.uk/~csetzer/articles/iopreprint.pdf][Interactive Programs in Dependent Type Theory]] by Peter Hancock and
+    Anton Setzer
+
+*** Monday, 18 September, 2017 - Meeting canceled
+  - Vikraman Choudhury
+  - Appendix B from [[https://arxiv.org/pdf/1606.05916.pdf][Guillaume Brunerie's thesis]]: The cardinal of π₄(𝕊³)
+
+*** Monday, 11 September, 2017
+  - Ryan Scott
+  - Presenting Chapter 4 from [[https://www.cis.upenn.edu/~sweirich/papers/eisenberg-thesis.pdf][Richard Eisenberg's thesis]] (pp 51--66)
+
+*** Monday, 4 September, 2017
+  - US Labor Day and ICFP, no meeting
+
+*** Monday, 28 August, 2017
+  - Planning meeting in THE ABYSS
+
+** Spring 2017
+*** Monday, 1 May, 2017
+
+*** Monday, 24 April, 2017
+  - David Christiansen
+  - [[http://pauillac.inria.fr/~herbelin/articles/tlca-Her05-callcc-sigma-types.pdf][On the Degeneracy of Σ-Types in Presence of Computational Classical
+    Logic]] by Hugo Herbelin
+
+*** Monday, 17 April, 2017
+  - No meeting
+
+*** Monday, 10 April, 2017
+  - Chao-Hong Chen
+  - [[http://www.cs.bham.ac.uk/~mhe/papers/escardo-xu-inconsistency-continuity.pdf][The inconsistency of a Brouwerian continuity principle with the Curry-Howard interpretation]] by Martín Escardó and Chuangjie Xu
+
+*** Monday, 3 April, 2017
+  - Vikraman Choudhury
+  - [[https://www.cs.cmu.edu/~drl/pubs/lh112tt/lh122tt-final.pdf][Canonicity for 2-Dimensional Type Theory]] by Dan Licata and Bob Harper
+
+*** Monday, 27 March, 2017
+  - David Christiansen
+  - [[papers/epigram-reloaded.pdf][Epigram Reloaded: A Standalone Typechecker for ETT]] by James
+    Chapman, Thorsten Altenkirch, and Conor McBride
+
+*** Monday, 20 March, 2017
+  - Tori Lewis
+  - [[http://www.nuprl.org/html/Nuprl2Coq/continuity.pdf][A Nominal Exploration of Intuitionism]] by Vincent Rahli and Mark Bickford
+
+*** Monday, 13 March, 2017
+  - No meeting, Spring Break
+
+*** Monday, 6 March, 2017
+  - Robert Rose
+  - [[http://www.mathematik.tu-darmstadt.de/~streicher/venedig.ps.gz][The Groupoid Interpretation of Type Theory]] by Martin Hofmann and Thomas Streicher
+    (continuing from last week)
+
+*** Monday, 27 February, 2017
+  - Robert Rose
+  - [[http://www.mathematik.tu-darmstadt.de/~streicher/venedig.ps.gz][The Groupoid Interpretation of Type Theory]] by Martin Hofmann and Thomas Streicher
+
+*** Monday, 20 February, 2017 - CANCELED
+*** Monday, 13 February, 2017
+  - Weixi Ma
+  - [[http://www.cse.chalmers.se/~peterd/papers/Testing_Proving.pdf][Combining testing and proving in dependent type theory]] by Peter
+    Dybjer, Qiao Haiyan, and Makoto Takeyama
+
+*** Monday, 6 February, 2017
+  - David Christiansen
+  - [[file:papers/afpr.pdf][Algebraic Foundations of Proof Refinement]] by Jonathan Sterling and
+    Robert Harper
+
+*** Monday, 30 January, 2017
+  - Kyle Carter
+  - [[https://arxiv.org/abs/1701.02571][Stack Semantics of Type Theory]] by Thierry Coquand, Bassel Mannaa,
+    and Fabian Ruch
+
+*** Monday, 23 January, 2017
+  - Planning meeting
+  - Decision: we stick to Mondays at 11
+
+** Fall 2016
+*** Monday, 19 December, 2016
+  - No meeting due to winter break.
+
+*** Monday, 12 December, 2016
+  - Control operators and types pt 2
+  - Reading: http://www.cs.indiana.edu/~sabry/papers/contFoundationLong.pdf
+  - Presenting: Amr Sabry
+  - Finals week.
+
+*** Monday, 5 December, 2016
+  - Contextual Isomorphisms
+  - https://www.cs.bham.ac.uk/~pbl/papers/contextiso.pdf
+  - Presenting: Vikraman Choudhury
+
+*** Monday, 28 November, 2016
+  - Control operators and types pt 1
+  - http://www.cs.indiana.edu/~sabry/papers/foundationAbortive-TR.pdf
+    esp. sections 1-3
+  - Presenting: Amr Sabry
+  - [[file:extra/C.agda][Agda code from talk]]
+
+*** Monday, 21 November, 2016
+  - US Thanksgiving week, so no meeting.
+
+*** Monday, 14 November, 2016
+  - "Löb’s Theorem: A functional pearl of dependently typed quining" by
+    Jason Gross, Jack Gallagher, and Benya Fallenstein.
+  - https://jasongross.github.io/lob-paper/nightly/lob.pdf
+  - Presenting: Weixi Ma
+
+*** Monday, 7 November, 2016
+  - Planning meeting.
+
+*** Monday, 24 October, 2016
+  - "Truth of a proposition, evidence of a judgement, validity of a
+    proof" by Per Martin-Löf. Synthese 73(3), pp. 407--420. 1987.
+  - [[https://michaelt.github.io/martin-lof/Truth-of-a-Proposition-Evidence-of-a-Judgment-1987.pdf]]
+  - Presenting: David Christiansen
+
+*** Monday, 24 October, 2016
+  - "Observational Equality, Now!" by Thorsten Altenkirch, Conor
+    McBride, and Wouter Swierstra.
+  - [[http://www.cs.nott.ac.uk/~psztxa/publ/obseqnow.pdf]]
+  - Presenting: David Christiansen
+
+*** Monday, 17 October, 2016
+  - No reading. Instead, we will have a discussion session on
+    formalizing category theory, lead by Tang Jiawei.
+
+*** Monday, 10 October, 2016
+  - Reading: "Denotation of Contextual Modal Type Theory (CMTT): syntax
+    and metaprogramming" by Murdoch J. Gabbay and Aleksandar Nanevski
+  - Available [[http://gabbay.org.uk/papers/dencmt.pdf][from author]]
+  - Presenting: Kyle Carter
+
+*** Monday, 3 October, 2016
+  - Reading: "Unifiers as equivalences: proof-relevant unification of
+    dependently typed data" by Cockx, Devriese, and Piessens
+  - Available on [[http://dl.acm.org/citation.cfm?id%3D2951917&CFID%3D844154474&CFTOKEN%3D48082776][ACM DL]]
+  - Presenting: David Christiansen
+
+*** Monday, 26 September, 2016
+
+*** Monday, 19 September, 2016
+  - Reading: "Constructing Type Systems over an Operational Semantics"
+    by Bob Harper.
+  - [[https://www.cs.uoregon.edu/research/summerschool/summer10/lectures/Harper-JSC92.pdf][PDF]]
+  - Presenting: Tori Lewis
+
+*** Monday, 12 September, 2016
+  - Cancelled due to illness
+
+*** Monday, 5 September, 2016
+  - U.S. Labor Day. No meeting.
+
+*** Monday, 29 August, 2016
+  - Talk by Edwin Brady. No reading.
+
+*** Monday, 22 August, 2016
+  - Reading: "The Power of Pi" by Nicolas Oury and Wouter Swierstra
+  - [[http://www.staff.science.uu.nl/~swier004/Publications/ThePowerOfPi.pdf][PDF]]
+  - Presenting: Chaitainya Koparkar
+
+
+** Summer 2016
+*** Monday, 15 August, 2016
+  - Reading: "Continuity of Gödel’s system T definable functionals via
+    effectful forcing" by Martín Escardó
+  - [[http://www.cs.bham.ac.uk/~mhe/dialogue/dialogue.pdf][PDF]]
+  - Presenting: Jon Sterling
+
+*** Monday, 8 August, 2016
+  - Reading: "Homotopy theoretic models of identity types" by Steve
+    Awodey and Michael A. Warren.
+  - [[http://arxiv.org/abs/0709.0248][PDF]]
+  - Presenting: Hamidreza Bahramian
+
+*** Monday, 1 August, 2016
+  - Cancelled
+
+*** Monday, 25 July, 2016
+  - Reading: "Computational Higher-Dimensional Type Theory" by Carlo
+    Angiuli, Robert Harper, and Todd Wilson.
+  - [[http://www.cs.cmu.edu/~rwh/papers/chitt/draft.pdf][PDF]]
+  - Presenting: David Christiansen
+
+*** Monday, 18 July, 2016
+  - Reading: "Cubical Type Theory: a constructive interpretation of the
+    univalence axiom" by Cyril Cohen, Thierry Coquand, Simon Huber, and
+    Anders Mörtberg
+  - [[https://www.math.ias.edu/~amortberg/papers/cubicaltt.pdf][PDF]]
+  - Presenting: Tim Zakian
+
+*** Monday, 11 July, 2016
+  - Reading: "Ornamental Algebras, Algebraic Ornaments" by Conor
+    McBride.
+  - [[https://personal.cis.strath.ac.uk/conor.mcbride/pub/OAAO/Ornament.pdf][PDF]]
+  - Presenting: Jason Hemann
+  - *Change of venue:* LH 325
+
+*** Monday, 4 July, 2016
+  Cancelled due to U.S. Independence Day.
+
+*** Monday, 27 June, 2016
+  - Reading: "Outrageous but Meaningful Coincidences" by Conor McBride.
+  - [[https://personal.cis.strath.ac.uk/conor.mcbride/pub/DepRep/DepRep.pdf][PDF]]
+  - Presenting: Kyle Carter
+
+*** Monday, 20 June, 2016
+  - Reading: "Idris, a General Purpose Dependently Typed Programming
+    Language: Design and Implementation" by Edwin Brady. In Journal of
+    Functional Programming, October 2013.
+  - [[http://eb.host.cs.st-andrews.ac.uk/drafts/impldtp.pdf][PDF]]
+  - Presenting: Rajan Walia
+
+*** Monday, 13 June, 2016
+  - Reading: "Indexed Containers" by Thorsten Altenkirch, Neil Ghani,
+    Peter Hancock, Conor McBride, and Peter Morris. In LICS 2009.
+    - [[http://strictlypositive.org/indexed-containers.pdf][PDF]]
+  - Presenting: Larry Moss
+
+*** Monday, 6 June, 2016
+  - Reading: "Pattern matching with dependent types" by Thierry
+    Coquand. From a 1992 workshop at Båstad.
+    - [[http://www.lfcs.inf.ed.ac.uk/research/types-bra/proc/proc92.ps.gz][Original proceedings]]
+    - [[file:papers/proc92.pdf][PDF version of proceedings]]
+    - [[file:papers/proc92-coquand.pdf][PDF of just the paper]]
+  - Presenting: Andrew Kent
+
+*** Monday, 30 May, 2016
+  Cancelled due to Memorial Day.
+
+*** Monday, 23 May, 2016, 1-2PM, LH101
+  Cancelled.
+
+*** Monday, 16 May, 2016, 1-2PM, LH101
+  - Reading: "A Non-Type-Theoretic Definition of Martin-Löf's Types" by
+    Stuart Allen. Available from [[http://www.cs.cornell.edu/Info/Projects/NuPrl/documents/Allen/lics87.html][Cornell]]. We should read [[http://www.cs.cornell.edu/Info/Projects/NuPrl/documents/Allen/TR87-832-RESET.ps][the "Reset for
+    better legibility" version of the tech report]].
+  - Presenting: Tori Lewis
+
+
+** Spring 2016
+*** Monday, 9 May, 2016, 1-2PM, Lindley Hall 101
+  - Reading: "Constructive Mathematics and Computer Programming" by Per
+    Martin-Löf. A high-quality reprint of it is available from [[http://rsta.royalsocietypublishing.org/content/312/1522/501][The
+    Royal Society]] (works on-campus, at least).
+  - Presenting: Dan Friedman
+
+*** Monday, 2 May, 2016, 1-2PM, Swain West 217
+  - Reading: "On Sense and Reference" by Gottlob Frege.
+    Jason got a copy through ILL and put it [[file:papers/on-sense-and-nominatum.pdf][here]].
+  - Presenting: Jason Hemann
+
+*** Monday, 25 April, 2016, 1-2PM, Swain West 217
+  - Reading: "Program Testing and The Meaning Explanations of
+    Martin-Löf Type Theory" by Peter Dybjer. Chapter 11 of Epistemology
+    versus Ontology, Essays on the Philosophy and Foundations of
+    Mathematics in Honour of Per Martin-Löf, 2012.  Available from [[http://www.cse.chalmers.se/~peterd/papers/MartinLofFestschrift.pdf][the
+    author's Web site]] and, on campus, through [[http://link.springer.com/chapter/10.1007/978-94-007-4435-6_11][SpringerLink]].
+  - Presenting: David Christiansen
+
+*** Monday, 18 April, 2016, 1-2PM, Swain West 217.
+  - Reading: "Intuitionistic Type Theory" (the Bibliopolis book) by Per
+    Martin-Löf. Available online [[https://intuitionistic.files.wordpress.com/2010/07/martin-lof-tt.pdf][from Johan Granström's page]].
+  - Presenting: David Christiansen
 
 * Topics
 
 ** History & Philosophy
+
 *** Background
  - Gottlob Frege. On Sense and Reference (Über Sinn und Bedeutung)
  - Dana Scott. Constructive Validity. In Symposium on Automatic
