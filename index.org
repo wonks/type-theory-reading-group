@@ -1,4 +1,4 @@
-* A Type Theory Reading Group
+#+TITLE: A Type Theory Reading Group
 
 The group will meet weekly, also during the summers, for a period of
 one hour. Everyone has the responsibility to read the material before
@@ -13,7 +13,7 @@ administrative work.
 ** Fall 2017
 *** Monday, 4 December, 2017
  - Tori Lewis
- - [[https://link.springer.com/chapter/10.1007/3-540-45413-6_11][Ramified Recurrence with Dependent Types]] by Normal Danner
+ - [[https://link.springer.com/chapter/10.1007/3-540-45413-6_11][Ramified Recurrence with Dependent Types]] by Norman Danner
  - [[https://goo.gl/vrbWug][Un-paywalled link]]
 
 *** Monday, 27 November, 2017
