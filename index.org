@@ -412,8 +412,17 @@ administrative work.
 *** Zombie Trellys
  - Casinghino, Sjöberg, and Weirich. Combining Proofs and Programs in
    a Dependently Typed Language. POPL '14.
-*** TODO Homotopy Type Theory
-*** TODO Cubical Type Theory
-
+*** Homotopy Type Theory
+ - [[https://arxiv.org/abs/1707.03693][Univalent Higher Categories via Complete Semi-Segal Types]]
+*** Cubical Type Theory
+ - CCHM
+   - [[https://arxiv.org/abs/1611.02108][Cubical Type Theory: a constructive interpretation of the univalence axiom]]
+   - [[http://drops.dagstuhl.de/opus/volltexte/2016/6564/pdf/LIPIcs-CSL-2016-24.pdf][Axioms for Modelling Cubical Type Theory in a Topos]]
+ - CHiTT
+   - [[https://arxiv.org/abs/1712.01800][Computational Higher Type Theory III: Univalent Universes and Exact Equality]]
+   - [[https://arxiv.org/abs/1606.09638][Computational Higher Type Theory II: Dependent Cubical Realizability]]
+   - [[https://arxiv.org/abs/1604.08873][Computational Higher Type Theory I: Abstract Cubical Realizability]]
+ - Guarded Cubical
+   - [[https://arxiv.org/abs/1606.05223][Guarded Cubical Type Theory: Path Equality for Guarded Recursion]]
 ** TODO Find the right papers for these
  - Higher order unification - implementation
