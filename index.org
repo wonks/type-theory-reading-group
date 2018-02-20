@@ -14,13 +14,17 @@ administrative work.
 
    Tuesdays 12-1PM, Luddy Hall 3069
 
+*** Tuesday, 20 February, 2018
+  - [[http://conal.net/papers/compiling-to-categories/][Compiling to Categories]] (contd.)
+
+*** Tuesday, 13 February, 2018
+  - [[http://conal.net/papers/compiling-to-categories/][Compiling to Categories]] (contd.)
+
 *** Tuesday, 6 February, 2018
   - [[http://conal.net/papers/compiling-to-categories/compiling-to-categories.pdf][Compiling to Categories]] by Conal Elliott
   - [[http://conal.net/papers/compiling-to-categories/][Paper website]]
 
 *** Tuesday, 30 January, 2018
-  - [[http://conal.net/papers/compiling-to-categories/compiling-to-categories.pdf][Compiling to Categories]] by Conal Elliott
-  - [[http://conal.net/papers/compiling-to-categories/][Paper website]]
   - CANCELLED (everyone's sick)
 
 *** Tuesday, 23 January, 2018
