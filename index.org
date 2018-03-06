@@ -14,6 +14,9 @@ administrative work.
 
    Tuesdays 12-1PM, Luddy Hall 3069
 
+*** Tuesday, 6 March, 2018
+  - [[http://www.math.mcgill.ca/rags/LCCC/LCCC.pdf][Locally cartesian closed categories and type theory]] by R. A. G. Seely
+
 *** Tuesday, 20 February, 2018
   - [[http://conal.net/papers/compiling-to-categories/][Compiling to Categories]] (contd.)
 
